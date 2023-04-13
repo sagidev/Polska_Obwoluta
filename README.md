@@ -15,3 +15,23 @@ Program **Polska Obwoluta** jest udostępniany na licencji MIT, co oznacza, że 
 Nasza firma jest dumnym twórcą **Polskiej Obwoluty**, która pozwala na korzystanie z języka polskiego w codziennej pracy programisty.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
+
+## Historia zmian
+
+### Wersja 1.0.1
+- Naprawiono drobny błąd związany z konwersją funkcji o nazwie "sort"
+- Poprawiono wydajność programu
+
+### Wersja 1.0.0
+- Pierwsze wydanie **Polskiej Obwoluty**
+- Dodano konwersję nazw zmiennych, funkcji i klas na język polski
+- Dodano konwersję komentarzy na język polski
+- Program umożliwia dostosowanie konwersji do indywidualnych preferencji użytkownika
+
+### Wersja 0.9.9-beta
+- Wersja testowa **Polskiej Obwoluty**
+- Dodano konwersję nazw zmiennych i funkcji na język polski
+- Program umożliwia konwersję komentarzy na język polski
+- Dalszy rozwój programu planowany na przyszłość
+
+
