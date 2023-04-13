@@ -34,4 +34,15 @@ Nasza firma jest dumnym twórcą **Polskiej Obwoluty**, która pozwala na korzys
 - Program umożliwia konwersję komentarzy na język polski
 - Dalszy rozwój programu planowany na przyszłość
 
+## Sponsorzy
+
+Dziękujemy naszym sponsorom, którzy przyczynili się do rozwoju projektu **Polska Obwoluta**:
+
+### Polskie Towarzystwo Walutowe
+
+**Polskie Towarzystwo Walutowe** to wiodąca firma finansowa na polskim rynku. Firma od lat wspiera rozwój polskiej branży informatycznej i jest patronem wielu inicjatyw związanych z technologią. Dziękujemy **Polskiemu Towarzystwu Walutowemu** za wsparcie naszego projektu.
+
+### Obwoluta Polska sp. z o.o.
+
+**Obwoluta Polska** to innowacyjna firma zajmująca się projektowaniem i produkcją opakowań. Firma od lat wspiera rozwój polskiej branży IT i jest jednym z naszych kluczowych partnerów. Dziękujemy **Obwolute Polska** za zaangażowanie w nasz projekt.
 
