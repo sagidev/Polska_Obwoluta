@@ -1,0 +1,61 @@
+#include "polska_obwoluta.h"
+#include <iostream>
+
+enumeracja operacje_matematyczne otwórz_klamerki
+dodawanie przecinek
+odejmowanie przecinek
+mno¿enie przecinek
+dzielenie przecinek
+zamknij_klamerki œrednik
+
+liczba_zmiennoprzecinkowa kalkulator otwórz_nawias operacje_matematyczne operacja przecinek liczba_ca³kowita liczba1 przecinek liczba_ca³kowita liczba2 zamknij_nawias
+otwórz_klamerki
+jeœli otwórz_nawias operacja równy dodawanie zamknij_nawias otwórz_klamerki
+zwróæ liczba1 dodaj liczba2 œrednik
+zamknij_klamerki
+jeœli otwórz_nawias operacja równy odejmowanie zamknij_nawias otwórz_klamerki
+zwróæ liczba1 odejmij liczba2 œrednik
+zamknij_klamerki
+jeœli otwórz_nawias operacja równy mno¿enie zamknij_nawias otwórz_klamerki
+zwróæ liczba1 pomnó¿ liczba2 œrednik
+zamknij_klamerki
+jeœli otwórz_nawias operacja równy dzielenie zamknij_nawias otwórz_klamerki
+zwróæ liczba1 podziel liczba2 œrednik
+zamknij_klamerki
+zamknij_klamerki
+
+
+liczba_ca³kowita g³ówny otwórz_nawias zamknij_nawias otwórz_klamerki
+wydrukuj otwórz_podwójny_nawias_strza³kowy otwórz_nawias "KALKULATOR - Polska Obwoluta" zamknij_nawias otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê œrednik
+dopóki otwórz_nawias prawda zamknij_nawias otwórz_klamerki
+liczba_zmiennoprzecinkowa liczba1 przypisz zero œrednik
+liczba_zmiennoprzecinkowa liczba2 przypisz zero œrednik
+wydrukuj otwórz_podwójny_nawias_strza³kowy otwórz_nawias "Podaj 1 liczbe" zamknij_nawias otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê œrednik
+wczytaj zamknij_podwójny_nawias_strza³kowy liczba1 œrednik
+wydrukuj otwórz_podwójny_nawias_strza³kowy otwórz_nawias "Podaj 2 liczbe" zamknij_nawias otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê œrednik
+wczytaj zamknij_podwójny_nawias_strza³kowy liczba2 œrednik
+wydrukuj otwórz_podwójny_nawias_strza³kowy otwórz_nawias "Podaj operacje" zamknij_nawias otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê œrednik
+wydrukuj otwórz_podwójny_nawias_strza³kowy otwórz_nawias "1 - dodawanie" zamknij_nawias otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê œrednik
+wydrukuj otwórz_podwójny_nawias_strza³kowy otwórz_nawias "2 - odejmowanie" zamknij_nawias otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê œrednik
+wydrukuj otwórz_podwójny_nawias_strza³kowy otwórz_nawias "3 - mno¿enie" zamknij_nawias otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê œrednik
+wydrukuj otwórz_podwójny_nawias_strza³kowy otwórz_nawias "4 - dzielenie" zamknij_nawias otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê œrednik
+liczba_ca³kowita wybor przypisz zero œrednik
+wczytaj zamknij_podwójny_nawias_strza³kowy wybor œrednik
+operacje_matematyczne operacja przypisz dodawanie œrednik
+prze³¹cznik otwórz_nawias wybor zamknij_nawias otwórz_klamerki
+przypadek jeden dwukropek operacja przypisz dodawanie œrednik
+hamuj œrednik
+przypadek dwa dwukropek operacja przypisz odejmowanie œrednik
+hamuj œrednik
+przypadek trzy dwukropek operacja przypisz mno¿enie œrednik
+hamuj œrednik
+przypadek cztery dwukropek operacja przypisz dzielenie œrednik
+hamuj œrednik
+zamknij_klamerki
+wydrukuj otwórz_podwójny_nawias_strza³kowy kalkulator otwórz_nawias operacja przecinek liczba1 przecinek liczba2 zamknij_nawias œrednik
+wydrukuj otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê œrednik
+zamknij_klamerki
+zwróæ zero œrednik
+zamknij_klamerki
+
+
