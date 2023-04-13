@@ -1,3 +1,5 @@
+![Logo Polskiej Obwoluty](https://i.imgur.com/L5JXXmw.png)
+
 # Polska Obwoluta - opis programu
 
 **Polska Obwoluta** to program, który umożliwia konwersję kodu źródłowego napisanego w języku programowania C++ na język polski. W polskiej branży informatycznej częstym problemem jest brak języka ojczystego, co może stanowić barierę dla niektórych osób. Nasza firma postanowiła temu zaradzić i stworzyła narzędzie, które ułatwia pracę programistom, którzy preferują język polski.
