@@ -1,5 +1,10 @@
+#include <Windows.h>
+#include <mmsystem.h>
+
 #include "polska_obwoluta.h"
 #include <iostream>
+
+#pragma comment(lib, "Winmm.lib")
 
 enumeracja operacje_matematyczne otwórz_klamerki
 dodawanie przecinek
@@ -26,6 +31,7 @@ zamknij_klamerki
 
 
 liczba_ca³kowita g³ówny otwórz_nawias zamknij_nawias otwórz_klamerki
+PlaySound(TEXT("soundtrack.wav"), NULL, SND_FILENAME | SND_ASYNC) œrednik
 wydrukuj otwórz_podwójny_nawias_strza³kowy otwórz_nawias "KALKULATOR - Polska Obwoluta" zamknij_nawias otwórz_podwójny_nawias_strza³kowy zakoñcz_liniê œrednik
 dopóki otwórz_nawias prawda zamknij_nawias otwórz_klamerki
 liczba_zmiennoprzecinkowa liczba1 przypisz zero œrednik
